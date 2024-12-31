@@ -2,6 +2,9 @@
 
 Welcome to the Agentic AI Projects! This repository is dedicated to learning and developing Agentic AI systems. Our goal is to explore how artificial agents can make autonomous decisions and work towards achieving specific objectives.
 
+![image](https://github.com/user-attachments/assets/62c1b01f-742b-4725-9357-516502a2f422)
+
+
 ## 🎯 Mission
 
 Agentic AI focuses on creating agents that can:
