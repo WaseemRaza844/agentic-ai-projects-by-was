@@ -114,7 +114,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🙏 Acknowledgments
 
-- Special thanks to [krishnaikacademy.com](https://krishnaikacademy.com) for their invaluable tutorials
+- Special thanks to [krishnaikacademy.com]([https://krishnaikacademy.com](https://learn.krishnaikacademy.com/web/checkout/676cd649819e2a82cdde99e5)) for their invaluable tutorials
 - Gratitude to Mr. Krish Naik for his comprehensive video tutorials
 
 ## Review Process
@@ -123,4 +123,4 @@ All pull requests will be reviewed by the maintainers. We aim to respond to pull
 
 ---
 
-💡 **Need Help?** Feel free to open an issue or join our [krishnaikacademy.com](https://krishnaikacademy.com) community discussions!
+💡 **Need Help?** Feel free to open an issue or join our [krishnaikacademy.com](https://learn.krishnaikacademy.com/web/checkout/676cd649819e2a82cdde99e5) community discussions!
