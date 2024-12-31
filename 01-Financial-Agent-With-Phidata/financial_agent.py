@@ -21,7 +21,7 @@ web_search_agent=Agent(
 
 )
 
-## Financial agent
+## Financial agent - agentic ai
 finance_agent=Agent(
     name="Finance AI Agent",
     model=Groq(id="llama3-groq-70b-8192-tool-use-preview"),
