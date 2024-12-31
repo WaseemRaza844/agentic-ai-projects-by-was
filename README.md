@@ -61,6 +61,14 @@ We believe in the power of community collaboration. Whether you're fixing bugs, 
 
 ‼️ **Address Issues: Help fix issues raised by other contributors to enhance the repository collaboratively.**
 
+```bash
+Naming Format:
+<Project Number>-<Descriptive Title>
+
+Example:
+01-Financial-Agent-With-Phidata
+02-Multi-Agentic-AI-RAG-With-Vector-Database
+ ```
 ### Contribution Process
 
 1. **Fork the Repository**
