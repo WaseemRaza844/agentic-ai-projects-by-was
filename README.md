@@ -57,6 +57,10 @@ Before you begin, ensure you have the following installed:
 
 We believe in the power of community collaboration. Whether you're fixing bugs, adding features, or improving documentation, your contributions are valuable to us.
 
+‼️ **Sequential Project Uploads: Please add projects in a step-by-step sequence, accompanied by video tutorials, and ensure the code matches the learning flow.**
+
+‼️ **Address Issues: Help fix issues raised by other contributors to enhance the repository collaboratively.**
+
 ### Contribution Process
 
 1. **Fork the Repository**
@@ -94,6 +98,7 @@ We believe in the power of community collaboration. Whether you're fixing bugs, 
    - Click "New Pull Request"
    - Select your feature branch
    - Provide a clear description of your changes
+
 
 ### Reporting Issues
 
