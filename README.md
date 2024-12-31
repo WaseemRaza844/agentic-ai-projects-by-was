@@ -114,7 +114,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🙏 Acknowledgments
 
-- Special thanks to [krishnaikacademy.com]([https://krishnaikacademy.com](https://learn.krishnaikacademy.com/web/checkout/676cd649819e2a82cdde99e5)) for their invaluable tutorials
+- Special thanks to ([https://krishnaikacademy.com](https://learn.krishnaikacademy.com/web/checkout/676cd649819e2a82cdde99e5)) for their invaluable tutorials
 - Gratitude to Mr. Krish Naik for his comprehensive video tutorials
 
 ## Review Process
