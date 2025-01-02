@@ -33,7 +33,7 @@ Before you begin, ensure you have the following installed:
 - Git
 - Essential AI Frameworks:
   - Phidata
-  - Langflow
+  - Langflow( NO CODE TOOL)
   - LangGraph
   - AutoGen
 
