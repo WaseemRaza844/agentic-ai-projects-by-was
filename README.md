@@ -35,6 +35,7 @@ Before you begin, ensure you have the following installed:
   - Phidata
   - Google Gemini
   - LangGraph
+  - OpenAI Swarm
   - AutoGen
 
 ### Installation
