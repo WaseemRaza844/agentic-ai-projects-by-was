@@ -23,7 +23,7 @@ This repository serves as a collaborative space where we share code, ideas, and 
 - **Robust Codebase**: Libraries and code related to agentic AI frameworks.
 - **Community-Driven**: Active space for open-source contributions and collaboration
 
-## 🚀 Getting Started
+## 🚀 Getting Started!
 
 ### Prerequisites
 
