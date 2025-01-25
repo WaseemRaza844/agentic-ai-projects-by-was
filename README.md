@@ -4,7 +4,6 @@ Welcome to the Agentic AI Projects! This repository is dedicated to learning and
 
 ![image](https://github.com/user-attachments/assets/62c1b01f-742b-4725-9357-516502a2f422)
 
-
 ## 🎯 Mission
 
 Agentic AI focuses on creating agents that can:
@@ -19,7 +18,6 @@ This repository serves as a collaborative space where we share code, ideas, and 
 
 ## ✨ Key Features
 
-- **Learning Hub**: Links to tutorials, codes, and videos on Agentic AI.
 - **Robust Codebase**: Libraries and code related to agentic AI frameworks.
 - **Community-Driven**: Active space for open-source contributions and collaboration
 
@@ -41,16 +39,19 @@ Before you begin, ensure you have the following installed:
 ### Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/yourusername/agentic-ai-projects.git
    ```
 
 2. Navigate to the project directory:
+
    ```bash
    cd agentic-ai-projects
    ```
 
 3. Install dependencies:
+
    ```bash
    pip install -r requirements.txt
    ```
@@ -72,35 +73,42 @@ Naming Format:
 Example:
 01-Financial-Agent-With-Phidata
 02-Multi-Agentic-AI-RAG-With-Vector-Database
- ```
+```
+
 ### Contribution Process
 
 1. **Fork the Repository**
+
    - Visit the project's GitHub page
    - Click the "Fork" button in the top-right corner
 
 2. **Clone Your Fork**
+
    ```bash
    git clone https://github.com/yourusername/agentic-ai-projects.git
    ```
 
 3. **Create a Feature Branch**
+
    ```bash
    git checkout -b feature/your-feature-name
    ```
 
 4. **Make Changes**
+
    - Follow project coding guidelines
    - Ensure your code is well-documented
    - Add tests if applicable
 
 5. **Commit Your Changes**
+
    ```bash
    git add .
    git commit -m "Add detailed description of your changes"
    ```
 
 6. **Push to Your Fork**
+
    ```bash
    git push origin feature/your-feature-name
    ```
@@ -111,10 +119,10 @@ Example:
    - Select your feature branch
    - Provide a clear description of your changes
 
-
 ### Reporting Issues
 
 When reporting issues, please include:
+
 - Detailed description of the problem
 - Steps to reproduce
 - Expected vs. actual behavior
