@@ -143,4 +143,4 @@ All pull requests will be reviewed by the maintainers. We aim to respond to pull
 
 ---
 
-💡 **Need Help?** Feel free to open an issue or join our [krishnaikacademy.com](https://learn.krishnaikacademy.com/web/checkout/676cd649819e2a82cdde99e5) community discussions!
+💡 **Need Help?** Feel free to open an issue community discussions!
