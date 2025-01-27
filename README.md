@@ -33,8 +33,10 @@ Before you begin, ensure you have the following installed:
   - Phidata
   - Google Gemini
   - LangGraph
+  - Crew AI
   - OpenAI Swarm
   - AutoGen
+  - Huggingface
 
 ### Installation
 
