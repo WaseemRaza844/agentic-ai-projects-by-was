@@ -8,9 +8,10 @@ from phi.vectordb.pgvector import PgVector2
 from phi.embedder.google import GeminiEmbedder
 from google.generativeai import configure
 import os
+from dotenv import load_dotenv
 
 # Set API Keys
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = getenv('GROQ_API_KEY')
 os.environ["GOOGLE_API_KEY"] = "Your Google API Key"
 
 # Explicitly configure Google Generative AI
