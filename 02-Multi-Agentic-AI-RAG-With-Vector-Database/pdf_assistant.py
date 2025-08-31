@@ -10,14 +10,14 @@ from google.generativeai import configure
 import os
 
 # Set API Keys
-os.environ["GROQ_API_KEY"] = "Your GROQ API Key"
+os.environ["GROQ_API_KEY"] = "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"
 os.environ["GOOGLE_API_KEY"] = "Your Google API Key"
 
 # Explicitly configure Google Generative AI
 configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 # Access API keys
-print(f"GROQ_API_KEY loaded: {os.getenv('GROQ_API_KEY') is not None}")
+print(f"GROQ_API_KEY loaded:   {os.getenv('GROQ_API_KEY')   is not None}")
 print(f"GOOGLE_API_KEY loaded: {os.getenv('GOOGLE_API_KEY') is not None}")
 
 db_url = "postgresql+psycopg://ai:ai@localhost:5532/ai"
